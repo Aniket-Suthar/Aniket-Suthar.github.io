@@ -100,11 +100,11 @@ git clone [repository-url]
 ### The project structure should look like this:
 
 ##### 1. FRONTEND
-![frotend folder structure](image.png)
+![frotend folder structure](image3.png)
 
 
 ##### 1. BACKEND
-![backend folder structure](image-1.png)
+![backend folder structure](image4.png)
 ## Step 2: Developing the Components
 In this step, we'll develop each component of our three-tier application. We can  create a simple frontend using a popular framework like React, set up a backend server using Node.js and Express.js, and configure MongoDB as our database.In my case I have already cloned the repository and will be using the following steps to create the components.
 
