@@ -14,12 +14,12 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Aniket Blog Site # the main title
+title: Aniket Suthar # the main title
 
 tagline: A detailed blog on containerization a 3-tier application # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Docker, Containerize, 3-tier Application
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -29,20 +29,19 @@ github:
   username: Aniket-Suthar # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: apsuthar24 # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: 
-  email: example@domain.com # change to your email address
+  name: Aniket Suthar
+  email: apsuthar24@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
+    - https://twitter.com/apsuthar24 # change to your twitter homepage
     - https://github.com/Aniket-Suthar # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/aniket-suthar-301422249/
 
 google_site_verification: # fill in to your verification string
 
@@ -76,7 +75,7 @@ theme_mode: # [light | dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:'https://media.licdn.com/dms/image/D4D35AQGflr7D4b0-og/profile-framedphoto-shrink_400_400/0/1707188389049?e=1714460400&v=beta&t=HWDCYpo7Fo6daWs6ytKU2Ug9ocgJx97xyIxW1qk0Czw'
+avatar: https://avatars.githubusercontent.com/u/117531809?v=4
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
