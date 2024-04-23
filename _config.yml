@@ -14,7 +14,7 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Aniket Blog Site # the main title
 
 tagline: A detailed blog on containerization a 3-tier application # it will display as the sub-title
 
@@ -76,7 +76,7 @@ theme_mode: # [light | dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar:'https://media.licdn.com/dms/image/D4D35AQGflr7D4b0-og/profile-framedphoto-shrink_400_400/0/1707188389049?e=1714460400&v=beta&t=HWDCYpo7Fo6daWs6ytKU2Ug9ocgJx97xyIxW1qk0Czw'
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
